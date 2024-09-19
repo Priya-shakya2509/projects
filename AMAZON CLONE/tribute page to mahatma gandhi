@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Mahatma Gandhi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 6px;
+            box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+        }
+        blockquote {
+            font-style: italic;
+            margin: 20px 0;
+            padding-left: 20px;
+            border-left: 5px solid #2c3e50;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Tribute to Mahatma Gandhi</h1>
+    <h2>A Visionary Leader</h2>
+    <p>Mahatma Gandhi, known as the Father of the Nation in India, was a beacon of hope and resilience. Born on October 2, 1869, in Porbandar, Gujarat, Gandhi's commitment to nonviolence and truth transformed the struggle for India's independence into a global symbol of peaceful resistance.</p>
+
+    <h2>Principles of Nonviolence</h2>
+    <p>Gandhi championed <strong>Ahimsa</strong> (nonviolence) and <strong>Satyagraha</strong> (truth force), advocating for peaceful protests and civil disobedience. His belief in the power of nonviolent resistance inspired countless movements for civil rights and freedom worldwide.</p>
+
+    <h2>Key Milestones</h2>
+    <ul>
+        <li><strong>Champaran Movement (1917):</strong> Gandhi led his first major protest against oppressive plantation systems.</li>
+        <li><strong>Salt March (1930):</strong> In a 240-mile march to the Arabian Sea, he challenged British salt laws, symbolizing the fight against colonialism.</li>
+        <li><strong>Quit India Movement (1942):</strong> Gandhi called for an end to British rule in India, uniting millions in a powerful movement.</li>
+    </ul>
+
+    <h2>Legacy</h2>
+    <p>Gandhi's teachings extend beyond political activism; they promote tolerance, compassion, and unity. His ideas influenced leaders like Martin Luther King Jr. and Nelson Mandela, showcasing the universal appeal of his message.</p>
+
+    <h2>Remembering Gandhi</h2>
+    <p>Gandhi's birthday, October 2, is celebrated as <strong>International Day of Non-Violence</strong>. His life serves as a reminder of the power of peaceful resistance and the importance of striving for justice.</p>
+
+    <blockquote>
+        <p>"Be the change that you wish to see in the world."</p>
+        <footer>- Mahatma Gandhi</footer>
+    </blockquote>
+
+    <blockquote>
+        <p>"In a gentle way, you can shake the world."</p>
+        <footer>- Mahatma Gandhi</footer>
+    </blockquote>
+
+    <footer>
+        <p>Mahendra Gandhi's legacy endures, inspiring generations to embrace nonviolence, seek justice, and foster understanding.</p>
+    </footer>
+</div>
+
+</body>
+</html>
