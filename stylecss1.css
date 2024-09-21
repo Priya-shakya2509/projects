@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(168, 47, 47);
+    padding: 15px 20px;
+    color: white;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url("C:\Users\priya\Downloads\food.jpg"); /* Replace with your image path */
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(75, 33, 33);
+    background-size: cover;
+}
+
+.hero h1 {
+    font-size: 48px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.btn {
+    background-color: #5cb85c;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.menu {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.menu h2 {
+    margin-bottom: 20px;
+}
+
+.menu-item {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item img {
+    max-width: 100%;
+    border-radius: 5px;
+    background-image: url('C:\Users\priya\Documents\css.html\pizza.jpg')
+}
+
+.about {
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #a4413e;
+    color: white;
+}
